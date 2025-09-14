@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 echo "hello friend"
 sleep 2.3
 
