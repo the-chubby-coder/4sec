@@ -17,7 +17,7 @@ echo -e '\033[31;40;1m
                                                                                                     v1
   developed by the-chubby-coder
   github: https://github.com/the-chubby-coder/   
-\033[33;4mVersion:\033[0m 3            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m the-chubby-coder
+\033[33;4mVersion:\033[0m 1            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m the-chubby-coder
 
 \e[37m[1]\e[36m Request & Updates        \e[37m[2]\e[36m Phishing Tool				
 \e[37m[3]\e[36m Camhawk                   \e[37m[4]\e[36m User Finder					
