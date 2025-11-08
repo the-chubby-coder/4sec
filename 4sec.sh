@@ -1,5 +1,6 @@
 #!/bin/bash
 clear
+echo "works best in fullscreen"
 echo "Proccessing..."
 sleep 2
 mkdir Tools
